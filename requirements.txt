@@ -1,0 +1,7 @@
+larq
+matplotlib
+numpy
+pandas
+tensorflow
+scikit-learn
+mininet
